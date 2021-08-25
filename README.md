@@ -3,4 +3,4 @@ Repository ini berisi kodingan dari website saya yang berisi projects yang saya 
 ======================================================
 Dapat diakses pada
 ===============
-nakakari.github.io
+https://nakakari.github.io/
